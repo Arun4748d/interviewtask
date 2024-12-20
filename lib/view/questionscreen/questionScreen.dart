@@ -171,7 +171,7 @@ class _QuestionscreenState extends State<Questionscreen> {
     );
   }
 
-
+// color function
   Color getColor(String currentOption) {
     if (selectedanswer != null) {
      
